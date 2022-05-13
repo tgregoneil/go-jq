@@ -1,6 +1,6 @@
 {
   "name": "go-jq",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "files": ["index.js", "readme.md", "package.json", "Test/tst.js", "Test/test.html", "Test/makeTest.sh"],
