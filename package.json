@@ -17,7 +17,7 @@
     "type": "git"
   },
   "dependencies": {
-    "go-type": "*",
+    "go-typ": "*",
     "go-msg": "*"
   },
   "bugs": {
