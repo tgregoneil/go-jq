@@ -1,6 +1,6 @@
 {
   "name": "go-jq",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "files": ["index.js", "readme.md", "package.json", "Test/tst.js", "Test/test.html", "Test/makeTest.sh"],
@@ -11,9 +11,9 @@
   "author": "T. Greg O'Neil <go22.npm@gmail.com> (http://tgregoneil.com/)",
   "license": "ISC",
   "readme": "readme.md",
-  "homepage": "https://github.com/tgregoneil/REPO",
+  "homepage": "https://github.com/tgregoneil/go-jq",
   "repository": {
-    "url": "git+ssh://github.com/tgregoneil/REPO.git",
+    "url": "git+ssh://github.com/tgregoneil/go-jq.git",
     "type": "git"
   },
   "dependencies": {
@@ -21,6 +21,6 @@
     "go-msg": "*"
   },
   "bugs": {
-    "url": "https://github.com/tgregoneil/REPO/issues"
+    "url": "https://github.com/tgregoneil/go-jq/issues"
   }
 }

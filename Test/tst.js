@@ -1,3 +1,3 @@
-import { jQ } from 'go-jq';
+import { jQ } from '../../go-jq';
 
 $('#out').append('something');
